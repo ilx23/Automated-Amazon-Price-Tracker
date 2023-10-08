@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from smtplib import SMTP
-EMAIL_ADDRESS = 'iliakeshavarz23@gmail.com'
+EMAIL_ADDRESS = 'YOUR_EMAIL_ADDRESS'
 EMAIL_PASSWORD = 'YOUR_EMAIL_PASSWORD_KEY'
 AZ_URL = 'https://www.amazon.com/ASUS-Gaming-viewable-Monitor-VG249Q3A/dp/B0C7BFJHR7/ref=sr_1_2?crid=1DUM1PM4EGSOR&keywords=monitor&qid=1696749945&sprefix=monitor+%2Caps%2C386&sr=8-2'
 
